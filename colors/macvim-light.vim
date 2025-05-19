@@ -10,7 +10,7 @@ let colors_name = "macvim-light"
 
 hi Directory    guifg=#1600FF
 hi ErrorMsg     guibg=#ee2c2c guifg=White
-hi FoldColumn   guibg=Grey guifg=#00008B
+hi FoldColumn   guibg=White guifg=#00008B
 hi Folded       guibg=#E6E6E6 guifg=#00008B
 hi IncSearch    gui=reverse
 hi ModeMsg      gui=bold
