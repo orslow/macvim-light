@@ -32,7 +32,7 @@ hi TabLineFill  gui=reverse
 hi TabLineSel   gui=bold
 hi Title        gui=bold guifg=#009ACD
 hi VertSplit    gui=NONE guifg=#2F4F4F guibg=Gray90
-hi Visual       guibg=#72F7FF
+hi Visual       guibg=#c0deff
 hi WarningMsg   guifg=#ee2c2c
 
 hi Error        guifg=#a71d5d guibg=NONE
@@ -50,7 +50,7 @@ hi Cursor       guibg=fg guifg=bg
 hi CursorColumn guibg=#F1F5FA
 hi CursorIM     guibg=fg guifg=bg
 hi CursorLine   guibg=#F1F5FA
-hi LineNr       guifg=#888888 guibg=#E6E6E6
+hi LineNr       guifg=#888888 guibg=#F2F2F2
 hi MatchParen   guifg=White guibg=#AB82FF
 hi Search       guibg=#98F5FF guifg=NONE
 hi Statement    gui=bold guifg=#a71d5d guibg=NONE
