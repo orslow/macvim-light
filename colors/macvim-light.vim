@@ -52,7 +52,8 @@ hi CursorIM     guibg=fg guifg=bg
 hi CursorLine   guibg=#F1F5FA
 hi LineNr       guifg=#888888 guibg=#F2F2F2
 hi MatchParen   guifg=White guibg=#AB82FF
-hi Search       guibg=#98F5FF guifg=NONE
+hi Search       guibg=#ffbde5 guifg=NONE
+hi CurSearch    guibg=#99ff9e guifg=NONE
 hi Statement    gui=bold guifg=#a71d5d guibg=NONE
 hi Todo         gui=NONE guifg=#006400 guibg=PaleGreen1
 hi Type         gui=bold guifg=#009E00 guibg=NONE
