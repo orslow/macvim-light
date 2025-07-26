@@ -60,6 +60,7 @@ hi Type         gui=bold guifg=#009E00 guibg=NONE
 hi WildMenu     guibg=#87CEEB guifg=Black
 hi lCursor      guibg=fg guifg=bg
 hi Normal       guifg=#333333 ctermfg=236 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
+hi NormalFloat  guifg=#333333 ctermfg=236 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 
 hi DiffAdd    ctermfg=233 ctermbg=194 guifg=#003300 guibg=#DDFFDD gui=none cterm=none
 hi DiffChange ctermbg=255  guibg=#ececec gui=none   cterm=none
