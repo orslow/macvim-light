@@ -36,7 +36,7 @@ hi Visual       guibg=#c0deff
 hi WarningMsg   guifg=#ee2c2c
 
 hi Error        guifg=#a71d5d guibg=NONE
-hi Identifier   gui=NONE guifg=#4C8141 guibg=NONE
+hi Identifier   gui=NONE guifg=#255d15 guibg=NONE
 hi Ignore       gui=NONE guifg=bg guibg=NONE
 hi PreProc      gui=NONE guifg=#1874CD guibg=NONE
 hi Special      gui=NONE guifg=#8A2BE2 guibg=NONE
